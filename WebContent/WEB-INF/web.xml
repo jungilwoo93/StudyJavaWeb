@@ -118,5 +118,13 @@
   	<servlet-name>ServletDemo5</servlet-name>
   	<url-pattern>/servlet/ServletDemo5</url-pattern>
   </servlet-mapping>
+  <servlet>
+  	<servlet-name>ResponseDemo1</servlet-name>
+  	<servlet-class>gacl.servlet.study.ResponseDemo1</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>ResponseDemo1</servlet-name>
+  	<url-pattern>/servlet/ResponseDemo1</url-pattern>
+  </servlet-mapping>
 </web-app>
 
