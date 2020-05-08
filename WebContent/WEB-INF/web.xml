@@ -150,5 +150,13 @@
   	<servlet-name>ResponseDemo4</servlet-name>
   	<url-pattern>/servlet/ResponseDemo4</url-pattern>
   </servlet-mapping>
+  <servlet>
+  	<servlet-name>ResponseDemo5</servlet-name>
+  	<servlet-class>gacl.servlet.study.ResponseDemo5</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>ResponseDemo5</servlet-name>
+  	<url-pattern>/servlet/ResponseDemo5</url-pattern>
+  </servlet-mapping>
 </web-app>
 
