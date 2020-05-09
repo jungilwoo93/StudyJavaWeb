@@ -158,5 +158,13 @@
   	<servlet-name>ResponseDemo5</servlet-name>
   	<url-pattern>/servlet/ResponseDemo5</url-pattern>
   </servlet-mapping>
+  <servlet>
+  	<servlet-name>DrawImage</servlet-name>
+  	<servlet-class>gacl.servlet.study.DrawImage</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>DrawImage</servlet-name>
+  	<url-pattern>/servlet/DrawImage</url-pattern>
+  </servlet-mapping>
 </web-app>
 
