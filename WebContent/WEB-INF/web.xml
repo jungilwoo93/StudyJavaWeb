@@ -174,5 +174,29 @@
   	<servlet-name>CheckServlet</servlet-name>
   	<url-pattern>/servlet/CheckServlet</url-pattern>
   </servlet-mapping>
+  <servlet>
+  	<servlet-name>RequestDemo1</servlet-name>
+  	<servlet-class>gacl.servlet.study.RequestDemo1</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>RequestDemo1</servlet-name>
+  	<url-pattern>/servlet/RequestDemo1</url-pattern>
+  </servlet-mapping>
+  <servlet>
+  	<servlet-name>RequestDemo2</servlet-name>
+  	<servlet-class>gacl.servlet.study.RequestDemo2</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>RequestDemo2</servlet-name>
+  	<url-pattern>/servlet/RequestDemo2</url-pattern>
+  </servlet-mapping>
+  <servlet>
+  	<servlet-name>RequestDemo3</servlet-name>
+  	<servlet-class>gacl.servlet.study.RequestDemo3</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>RequestDemo3</servlet-name>
+  	<url-pattern>/servlet/RequestDemo3</url-pattern>
+  </servlet-mapping>
 </web-app>
 
