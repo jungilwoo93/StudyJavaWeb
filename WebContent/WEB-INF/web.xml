@@ -214,5 +214,14 @@
   	<servlet-name>RequestDemo5</servlet-name>
   	<url-pattern>/servlet/RequestDemo5</url-pattern>
   </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>CookieDemo1</servlet-name>
+  	<servlet-class>gacl.servlet.study.CookieDemo1</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>CookieDemo1</servlet-name>
+  	<url-pattern>/servlet/CookieDemo1</url-pattern>
+  </servlet-mapping>
 </web-app>
 
