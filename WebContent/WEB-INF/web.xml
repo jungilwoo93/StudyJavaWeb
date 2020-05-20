@@ -223,5 +223,21 @@
   	<servlet-name>CookieDemo1</servlet-name>
   	<url-pattern>/servlet/CookieDemo1</url-pattern>
   </servlet-mapping>
+  <servlet>
+  	<servlet-name>CookieDemo2</servlet-name>
+  	<servlet-class>gacl.servlet.study.CookieDemo2</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>CookieDemo2</servlet-name>
+  	<url-pattern>/servlet/CookieDemo2</url-pattern>
+  </servlet-mapping>
+  <servlet>
+  	<servlet-name>CookieDemo3</servlet-name>
+  	<servlet-class>gacl.servlet.study.CookieDemo3</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>CookieDemo3</servlet-name>
+  	<url-pattern>/servlet/CookieDemo3</url-pattern>
+  </servlet-mapping>
 </web-app>
 
